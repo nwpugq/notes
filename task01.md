@@ -1,0 +1,4 @@
+本课程需要安装三个软件：Miniconda、Visial Studio Code、Git。
+Miniconda是Anaconda的一种轻量化版本，可以帮助管理深度学习的环境，每个环境里都可以安装不同的第三方库，彼此之间不会发生冲突。
+Visial Studio Code是拥有丰富插件的代码编辑器，可以在上面安装想要功能的软件，运行任何程序语言所写的代码。
+Git是一种可以在本地上对Github网站进行操作的软件，可以有效、高速的实现项目管理。
